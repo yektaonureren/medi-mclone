@@ -1,1 +1,2 @@
-# medi-mclone
+# mediumclone
+**patika kapsamında yaptığım medium klon projesini içerir.
